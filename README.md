@@ -1,5 +1,5 @@
 **Wildfire Detection**
-A machine learning-based system for detecting wildfires using aerial multispectral image datasets. The system processes paired RGB and thermal images to train a robust detection model for early intervention and disaster management.
+-A machine learning-based system for detecting wildfires using aerial multispectral image datasets. The system processes paired RGB and thermal images to train a robust detection model for early intervention and disaster management.
 
 **How to Run**
 
